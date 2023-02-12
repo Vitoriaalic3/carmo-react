@@ -1,0 +1,29 @@
+.requisitante_container{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4em;
+}
+.requisitante_container h1 {
+
+    font-size: 2.5em;
+    margin-bottom: .5em;
+}
+
+.requisitante_container h1 span{
+    color:#FFBB33;
+    padding:0.2em;
+    background-color: darkslategrey;
+
+}
+.requisitante_container p{
+    margin-bottom: 1.5em;
+    color: lightslategray;
+}
+
+.home_container img {
+    width: 350px;
+    margin: 2em 0;
+}
